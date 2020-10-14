@@ -1,0 +1,22 @@
+html{
+    font-size: 20px;
+}
+
+body{
+    text-align: center;
+    color: #333333;
+    margin: auto;
+}
+
+img{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+#img-div{
+    background: white;
+    padding: 10px;
+    margin: 0;
+}
