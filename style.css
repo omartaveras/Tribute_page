@@ -1,5 +1,5 @@
 html{
-    font-size: 20px;
+    font-size: 10px;
 }
 
 body{
@@ -22,7 +22,7 @@ h1{
 }
 
 h3{
-    font-size: 3.25rem;
+    font-size: 2.25rem;
 }
 
 #main{
@@ -50,12 +50,6 @@ img{
     background: white;
     padding: 10px;
     margin: 0;
-}
-
-@media(max-width: 460px){
-    #img-div{
-        margin: auto;
-    }
 }
 
 #img-caption{
