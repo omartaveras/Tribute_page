@@ -14,12 +14,6 @@ h1{
     margin-bottom: 0;
 }
 
-/* @media(max-width: 460px){
-    h1{
-        font-size: 3.5rem;
-        line-height: 1.2;
-    }
-} */
 
 h3{
     font-size: 30px;
@@ -32,11 +26,6 @@ h3{
     background: repeating-linear-gradient( 90deg,#fffefd,#f4f2f1 2px);
 }
 
-/* @media(max-width: 460px){
-    #main{
-        margin: 0;
-    }
-} */
 
 img{
     max-width: 100%;
@@ -56,11 +45,6 @@ img{
     color: #808080;
 }
 
-/* @media(max-width: 460px){
-    #img-caption{
-        font-size: 1.4rem;
-    }
-} */
 
 #headline{
     margin: 0%;
