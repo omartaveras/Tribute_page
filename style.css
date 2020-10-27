@@ -7,6 +7,17 @@ html{
     font-size: 10px;
 }
 
+header {
+  /* position: fixed; */
+  /* font-family: "Bebas Neue", cursive; */
+  /* font-size: 4.5em; */
+  text-align: center;
+  width: 100%;
+  /* background-color: black; */
+  /* color: white; */
+  border-bottom: 3px solid white;
+}
+
 body{
     font-size: 1.6rem;
     line-height: 1.5;
